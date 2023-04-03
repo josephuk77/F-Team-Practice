@@ -1,5 +1,6 @@
 package com.jojoldu.book.springboot.domain.posts;
 
+
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
