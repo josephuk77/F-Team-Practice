@@ -6,7 +6,7 @@ import com.jojoldu.book.springboot.web.dto.PostsSaveRequestDto;
 import com.jojoldu.book.springboot.web.dto.PostsUpdateRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
-
+import org.springframework.http.MediaType;
 
 @RequiredArgsConstructor
 @RestController
