@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 //EnableJpaAuditing : JPA Auditing 활성화 어노테이션
-@EnableJpaAuditing
+//@EnableJpaAuditing
 @SpringBootApplication
 public class SpringbootApplication {
 
