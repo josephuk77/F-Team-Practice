@@ -11,11 +11,12 @@ sourceCompatibility = '1.8'
 repositories {
 	mavenCentral()
 	jcenter()
+	mavenCentral()
 }
 
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter'
-	implementation 'org.springframework.boot:spring-boot-starter-web'
+	implementation 'org.spr	ingframework.boot:spring-boot-starter-web'
 	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
 	implementation 'com.h2database:h2'
 	implementation 'org.springframework.boot:spring-boot-starter-mustache'
